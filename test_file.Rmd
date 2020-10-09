@@ -18,5 +18,8 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r}
 library(tidyverse)
+library(googlesheets4) # for reading googlesheet data
+library(lubridate)     # for date manipulation
+
 ```
 
