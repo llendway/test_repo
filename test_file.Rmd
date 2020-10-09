@@ -21,5 +21,6 @@ library(tidyverse)
 library(googlesheets4) # for reading googlesheet data
 library(lubridate)     # for date manipulation
 
+#I'm adding something to the R code chunk
 ```
 
